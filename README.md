@@ -2,4 +2,4 @@
 BERT NLP
 Contains the BERT based Sentiment classifier using Pytorch
 
-Prediction_Farsi_TextPreProcessing_BERT.ipynb : Prediction on already Trained Model
+Prediction_Farsi_TextPreProcessing_BERT.ipynb : Prediction using existing Trained Model
